@@ -1,0 +1,177 @@
+/home/dongsijun/scratch/miniconda3/envs/pl/lib/python3.9/site-packages/timm/models/layers/__init__.py:48: FutureWarning: Importing from timm.models.layers is deprecated, please import via timm.layers
+  warnings.warn(f"Importing from {__name__} is deprecated, please import via timm.layers", FutureWarning)
+/home/dongsijun/scratch/miniconda3/envs/pl/lib/python3.9/site-packages/timm/models/layers/__init__.py:48: FutureWarning: Importing from timm.models.layers is deprecated, please import via timm.layers
+  warnings.warn(f"Importing from {__name__} is deprecated, please import via timm.layers", FutureWarning)
+/home/dongsijun/scratch/miniconda3/envs/pl/lib/python3.9/site-packages/timm/models/registry.py:4: FutureWarning: Importing from timm.models.registry is deprecated, please import via timm.models
+  warnings.warn(f"Importing from {__name__} is deprecated, please import via timm.models", FutureWarning)
+/home/dongsijun/scratch/miniconda3/envs/pl/lib/python3.9/site-packages/timm/models/registry.py:4: FutureWarning: Importing from timm.models.registry is deprecated, please import via timm.models
+  warnings.warn(f"Importing from {__name__} is deprecated, please import via timm.models", FutureWarning)
+/project/dongsijun/25/7/remote-sensing-change-detection/change_detection/CDNeXt/convnext.py:165: UserWarning: Overwriting convnext_tiny in registry with change_detection.CDNeXt.convnext.convnext_tiny. This is because the name being registered conflicts with an existing name. Please check if this is not expected.
+  def convnext_tiny(pretrained=False, in_22k=False, classes=1000, resolution=None, **kwargs):
+/project/dongsijun/25/7/remote-sensing-change-detection/change_detection/CDNeXt/convnext.py:182: UserWarning: Overwriting convnext_small in registry with change_detection.CDNeXt.convnext.convnext_small. This is because the name being registered conflicts with an existing name. Please check if this is not expected.
+  def convnext_small(pretrained=False, in_22k=False, classes=1000, resolution=None, **kwargs):
+/project/dongsijun/25/7/remote-sensing-change-detection/change_detection/CDNeXt/convnext.py:196: UserWarning: Overwriting convnext_base in registry with change_detection.CDNeXt.convnext.convnext_base. This is because the name being registered conflicts with an existing name. Please check if this is not expected.
+  def convnext_base(pretrained=False, in_22k=False, classes=1000, resolution=None, **kwargs):
+/project/dongsijun/25/7/remote-sensing-change-detection/change_detection/CDNeXt/convnext.py:165: UserWarning: Overwriting convnext_tiny in registry with change_detection.CDNeXt.convnext.convnext_tiny. This is because the name being registered conflicts with an existing name. Please check if this is not expected.
+  def convnext_tiny(pretrained=False, in_22k=False, classes=1000, resolution=None, **kwargs):
+/project/dongsijun/25/7/remote-sensing-change-detection/change_detection/CDNeXt/convnext.py:210: UserWarning: Overwriting convnext_large in registry with change_detection.CDNeXt.convnext.convnext_large. This is because the name being registered conflicts with an existing name. Please check if this is not expected.
+  def convnext_large(pretrained=False, in_22k=False, classes=1000, resolution=None, **kwargs):
+/project/dongsijun/25/7/remote-sensing-change-detection/change_detection/CDNeXt/convnext.py:224: UserWarning: Overwriting convnext_xlarge in registry with change_detection.CDNeXt.convnext.convnext_xlarge. This is because the name being registered conflicts with an existing name. Please check if this is not expected.
+  def convnext_xlarge(pretrained=False, in_22k=False, classes=1000, resolution=None, **kwargs):
+/project/dongsijun/25/7/remote-sensing-change-detection/change_detection/CDNeXt/convnext.py:182: UserWarning: Overwriting convnext_small in registry with change_detection.CDNeXt.convnext.convnext_small. This is because the name being registered conflicts with an existing name. Please check if this is not expected.
+  def convnext_small(pretrained=False, in_22k=False, classes=1000, resolution=None, **kwargs):
+/project/dongsijun/25/7/remote-sensing-change-detection/change_detection/CDNeXt/convnext.py:196: UserWarning: Overwriting convnext_base in registry with change_detection.CDNeXt.convnext.convnext_base. This is because the name being registered conflicts with an existing name. Please check if this is not expected.
+  def convnext_base(pretrained=False, in_22k=False, classes=1000, resolution=None, **kwargs):
+/project/dongsijun/25/7/remote-sensing-change-detection/change_detection/CDNeXt/convnext.py:210: UserWarning: Overwriting convnext_large in registry with change_detection.CDNeXt.convnext.convnext_large. This is because the name being registered conflicts with an existing name. Please check if this is not expected.
+  def convnext_large(pretrained=False, in_22k=False, classes=1000, resolution=None, **kwargs):
+/project/dongsijun/25/7/remote-sensing-change-detection/change_detection/CDNeXt/convnext.py:224: UserWarning: Overwriting convnext_xlarge in registry with change_detection.CDNeXt.convnext.convnext_xlarge. This is because the name being registered conflicts with an existing name. Please check if this is not expected.
+  def convnext_xlarge(pretrained=False, in_22k=False, classes=1000, resolution=None, **kwargs):
+/home/dongsijun/scratch/miniconda3/envs/pl/lib/python3.9/site-packages/mmengine/optim/optimizer/zero_optimizer.py:11: DeprecationWarning: `TorchScript` support for functional optimizers is deprecated and will be removed in a future PyTorch release. Consider using the `torch.compile` optimizer instead.
+  from torch.distributed.optim import \
+/home/dongsijun/scratch/miniconda3/envs/pl/lib/python3.9/site-packages/mmengine/optim/optimizer/zero_optimizer.py:11: DeprecationWarning: `TorchScript` support for functional optimizers is deprecated and will be removed in a future PyTorch release. Consider using the `torch.compile` optimizer instead.
+  from torch.distributed.optim import \
+xFormers not available
+xFormers not available
+xFormers not available
+xFormers not available
+/home/dongsijun/scratch/miniconda3/envs/pl/lib/python3.9/site-packages/albumentations/check_version.py:147: UserWarning: Error fetching version info <urlopen error [Errno 101] Network is unreachable>
+  data = fetch_version_info()
+/home/dongsijun/scratch/miniconda3/envs/pl/lib/python3.9/site-packages/albumentations/check_version.py:147: UserWarning: Error fetching version info <urlopen error [Errno 101] Network is unreachable>
+  data = fetch_version_info()
+/home/dongsijun/scratch/miniconda3/envs/pl/lib/python3.9/site-packages/torch/utils/data/dataloader.py:557: UserWarning: This DataLoader will create 8 worker processes in total. Our suggested max number of worker in current system is 4, which is smaller than what this DataLoader is going to create. Please be aware that excessive worker creation might get DataLoader running slow or even freeze, lower the worker number to avoid potential slowness/freeze if necessary.
+  warnings.warn(_create_warning_msg(
+/home/dongsijun/scratch/miniconda3/envs/pl/lib/python3.9/site-packages/torch/utils/data/dataloader.py:557: UserWarning: This DataLoader will create 8 worker processes in total. Our suggested max number of worker in current system is 4, which is smaller than what this DataLoader is going to create. Please be aware that excessive worker creation might get DataLoader running slow or even freeze, lower the worker number to avoid potential slowness/freeze if necessary.
+  warnings.warn(_create_warning_msg(
+/home/dongsijun/scratch/miniconda3/envs/pl/lib/python3.9/site-packages/lightning/fabric/connector.py:571: `precision=16` is supported for historical reasons but its usage is discouraged. Please set your precision to 16-mixed instead!
+Using 16bit Automatic Mixed Precision (AMP)
+GPU available: True (cuda), used: True
+TPU available: False, using: 0 TPU cores
+HPU available: False, using: 0 HPUs
+Initializing distributed: GLOBAL_RANK: 1, MEMBER: 2/2
+Initializing distributed: GLOBAL_RANK: 0, MEMBER: 1/2
+----------------------------------------------------------------------------------------------------
+distributed_backend=nccl
+All distributed processes registered. Starting with 2 processes
+----------------------------------------------------------------------------------------------------
+
+/home/dongsijun/scratch/miniconda3/envs/pl/lib/python3.9/site-packages/lightning/pytorch/callbacks/model_checkpoint.py:654: Checkpoint directory /project/dongsijun/25/7/remote-sensing-change-detection/SNRNet_SYSU_TrainingFiles exists and is not empty.
+LOCAL_RANK: 0 - CUDA_VISIBLE_DEVICES: [0,1]
+LOCAL_RANK: 1 - CUDA_VISIBLE_DEVICES: [0,1]
+SLURM auto-requeueing enabled. Setting signal handlers.
+SLURM auto-requeueing enabled. Setting signal handlers.
+/home/dongsijun/scratch/miniconda3/envs/pl/lib/python3.9/site-packages/lightning/pytorch/utilities/data.py:78: Trying to infer the `batch_size` from an ambiguous collection. The batch size we found is 12. To avoid any miscalculations, use `self.log(..., batch_size=batch_size)`.
+/home/dongsijun/scratch/miniconda3/envs/pl/lib/python3.9/site-packages/torch/autograd/graph.py:768: UserWarning: Grad strides do not match bucket view strides. This may indicate grad was not created according to the gradient layout contract, or that the param's strides changed since DDP was constructed.  This is not an error, but may impair performance.
+grad.sizes() = [1024, 64, 1, 1], strides() = [64, 1, 64, 64]
+bucket_view.sizes() = [1024, 64, 1, 1], strides() = [64, 1, 1, 1] (Triggered internally at ../torch/csrc/distributed/c10d/reducer.cpp:327.)
+  return Variable._execution_engine.run_backward(  # Calls into the C++ engine to run the backward pass
+/home/dongsijun/scratch/miniconda3/envs/pl/lib/python3.9/site-packages/torch/autograd/graph.py:768: UserWarning: Grad strides do not match bucket view strides. This may indicate grad was not created according to the gradient layout contract, or that the param's strides changed since DDP was constructed.  This is not an error, but may impair performance.
+grad.sizes() = [1024, 64, 1, 1], strides() = [64, 1, 64, 64]
+bucket_view.sizes() = [1024, 64, 1, 1], strides() = [64, 1, 1, 1] (Triggered internally at ../torch/csrc/distributed/c10d/reducer.cpp:327.)
+  return Variable._execution_engine.run_backward(  # Calls into the C++ engine to run the backward pass
+[rank: 0] Metric val_iou improved. New best score: 0.657
+[rank: 1] Metric val_iou improved. New best score: 0.657
+Epoch 1, global step 1000: 'val_iou' reached 0.65660 (best 0.65660), saving model to '/project/dongsijun/25/7/remote-sensing-change-detection/SNRNet_SYSU_TrainingFiles/best-model-epoch=01-val_iou=0.6566.ckpt' as top 5
+Epoch 3, global step 2000: 'val_iou' reached 0.64670 (best 0.65660), saving model to '/project/dongsijun/25/7/remote-sensing-change-detection/SNRNet_SYSU_TrainingFiles/best-model-epoch=03-val_iou=0.6467.ckpt' as top 5
+Epoch 5, global step 3000: 'val_iou' reached 0.54387 (best 0.65660), saving model to '/project/dongsijun/25/7/remote-sensing-change-detection/SNRNet_SYSU_TrainingFiles/best-model-epoch=05-val_iou=0.5439.ckpt' as top 5
+Epoch 7, global step 4000: 'val_iou' reached 0.61854 (best 0.65660), saving model to '/project/dongsijun/25/7/remote-sensing-change-detection/SNRNet_SYSU_TrainingFiles/best-model-epoch=07-val_iou=0.6185.ckpt' as top 5
+Epoch 9, global step 5000: 'val_iou' reached 0.62318 (best 0.65660), saving model to '/project/dongsijun/25/7/remote-sensing-change-detection/SNRNet_SYSU_TrainingFiles/best-model-epoch=09-val_iou=0.6232.ckpt' as top 5
+Epoch 11, global step 6000: 'val_iou' reached 0.63783 (best 0.65660), saving model to '/project/dongsijun/25/7/remote-sensing-change-detection/SNRNet_SYSU_TrainingFiles/best-model-epoch=11-val_iou=0.6378.ckpt' as top 5
+Epoch 13, global step 7000: 'val_iou' reached 0.63326 (best 0.65660), saving model to '/project/dongsijun/25/7/remote-sensing-change-detection/SNRNet_SYSU_TrainingFiles/best-model-epoch=13-val_iou=0.6333.ckpt' as top 5
+[rank: 0] Metric val_iou improved by 0.003 >= min_delta = 0.0. New best score: 0.659
+[rank: 1] Metric val_iou improved by 0.003 >= min_delta = 0.0. New best score: 0.659
+Epoch 15, global step 8000: 'val_iou' reached 0.65914 (best 0.65914), saving model to '/project/dongsijun/25/7/remote-sensing-change-detection/SNRNet_SYSU_TrainingFiles/best-model-epoch=15-val_iou=0.6591.ckpt' as top 5
+[rank: 1] Metric val_iou improved by 0.012 >= min_delta = 0.0. New best score: 0.671
+[rank: 0] Metric val_iou improved by 0.012 >= min_delta = 0.0. New best score: 0.671
+Epoch 17, global step 9000: 'val_iou' reached 0.67080 (best 0.67080), saving model to '/project/dongsijun/25/7/remote-sensing-change-detection/SNRNet_SYSU_TrainingFiles/best-model-epoch=17-val_iou=0.6708.ckpt' as top 5
+Epoch 19, global step 10000: 'val_iou' reached 0.64698 (best 0.67080), saving model to '/project/dongsijun/25/7/remote-sensing-change-detection/SNRNet_SYSU_TrainingFiles/best-model-epoch=19-val_iou=0.6470.ckpt' as top 5
+[rank: 0] Metric val_iou improved by 0.000 >= min_delta = 0.0. New best score: 0.671
+[rank: 1] Metric val_iou improved by 0.000 >= min_delta = 0.0. New best score: 0.671
+Epoch 21, global step 11000: 'val_iou' reached 0.67080 (best 0.67080), saving model to '/project/dongsijun/25/7/remote-sensing-change-detection/SNRNet_SYSU_TrainingFiles/best-model-epoch=21-val_iou=0.6708.ckpt' as top 5
+Epoch 23, global step 12000: 'val_iou' was not in top 5
+Epoch 25, global step 13000: 'val_iou' was not in top 5
+Epoch 27, global step 14000: 'val_iou' reached 0.66073 (best 0.67080), saving model to '/project/dongsijun/25/7/remote-sensing-change-detection/SNRNet_SYSU_TrainingFiles/best-model-epoch=27-val_iou=0.6607.ckpt' as top 5
+Epoch 29, global step 15000: 'val_iou' was not in top 5
+Epoch 31, global step 16000: 'val_iou' was not in top 5
+Epoch 33, global step 17000: 'val_iou' was not in top 5
+Epoch 35, global step 18000: 'val_iou' was not in top 5
+Epoch 37, global step 19000: 'val_iou' was not in top 5
+Epoch 39, global step 20000: 'val_iou' was not in top 5
+Epoch 41, global step 21000: 'val_iou' was not in top 5
+Epoch 43, global step 22000: 'val_iou' was not in top 5
+Epoch 45, global step 23000: 'val_iou' was not in top 5
+Epoch 47, global step 24000: 'val_iou' was not in top 5
+Epoch 49, global step 25000: 'val_iou' was not in top 5
+Epoch 51, global step 26000: 'val_iou' was not in top 5
+Epoch 53, global step 27000: 'val_iou' was not in top 5
+Epoch 55, global step 28000: 'val_iou' was not in top 5
+Epoch 57, global step 29000: 'val_iou' was not in top 5
+Epoch 59, global step 30000: 'val_iou' was not in top 5
+`Trainer.fit` stopped: `max_steps=30000` reached.
+Restoring states from the checkpoint path at /project/dongsijun/25/7/remote-sensing-change-detection/SNRNet_SYSU_TrainingFiles/best-model-epoch=21-val_iou=0.6708.ckpt
+LOCAL_RANK: 1 - CUDA_VISIBLE_DEVICES: [0,1]
+LOCAL_RANK: 0 - CUDA_VISIBLE_DEVICES: [0,1]
+Loaded model weights from the checkpoint at /project/dongsijun/25/7/remote-sensing-change-detection/SNRNet_SYSU_TrainingFiles/best-model-epoch=21-val_iou=0.6708.ckpt
+SLURM auto-requeueing enabled. Setting signal handlers.
+SLURM auto-requeueing enabled. Setting signal handlers.
+/home/dongsijun/scratch/miniconda3/envs/pl/lib/python3.9/site-packages/lightning/pytorch/trainer/connectors/data_connector.py:215: Using `DistributedSampler` with the dataloaders. During `trainer.test()`, it is recommended to use `Trainer(devices=1, num_nodes=1)` to ensure each sample/batch gets evaluated exactly once. Otherwise, multi-device settings use `DistributedSampler` that replicates some samples to make sure all devices have same batch size in case of uneven inputs.
+[rank1]: Traceback (most recent call last):
+[rank1]:   File "/project/dongsijun/25/7/remote-sensing-change-detection/main.py", line 176, in <module>
+[rank1]:     trainer.test(model, test_loader, ckpt_path='best')
+[rank1]:   File "/home/dongsijun/scratch/miniconda3/envs/pl/lib/python3.9/site-packages/lightning/pytorch/trainer/trainer.py", line 748, in test
+[rank1]:     return call._call_and_handle_interrupt(
+[rank1]:   File "/home/dongsijun/scratch/miniconda3/envs/pl/lib/python3.9/site-packages/lightning/pytorch/trainer/call.py", line 46, in _call_and_handle_interrupt
+[rank1]:     return trainer.strategy.launcher.launch(trainer_fn, *args, trainer=trainer, **kwargs)
+[rank1]:   File "/home/dongsijun/scratch/miniconda3/envs/pl/lib/python3.9/site-packages/lightning/pytorch/strategies/launchers/subprocess_script.py", line 105, in launch
+[rank1]:     return function(*args, **kwargs)
+[rank1]:   File "/home/dongsijun/scratch/miniconda3/envs/pl/lib/python3.9/site-packages/lightning/pytorch/trainer/trainer.py", line 788, in _test_impl
+[rank1]:     results = self._run(model, ckpt_path=ckpt_path)
+[rank1]:   File "/home/dongsijun/scratch/miniconda3/envs/pl/lib/python3.9/site-packages/lightning/pytorch/trainer/trainer.py", line 981, in _run
+[rank1]:     results = self._run_stage()
+[rank1]:   File "/home/dongsijun/scratch/miniconda3/envs/pl/lib/python3.9/site-packages/lightning/pytorch/trainer/trainer.py", line 1018, in _run_stage
+[rank1]:     return self._evaluation_loop.run()
+[rank1]:   File "/home/dongsijun/scratch/miniconda3/envs/pl/lib/python3.9/site-packages/lightning/pytorch/loops/utilities.py", line 178, in _decorator
+[rank1]:     return loop_run(self, *args, **kwargs)
+[rank1]:   File "/home/dongsijun/scratch/miniconda3/envs/pl/lib/python3.9/site-packages/lightning/pytorch/loops/evaluation_loop.py", line 142, in run
+[rank1]:     return self.on_run_end()
+[rank1]:   File "/home/dongsijun/scratch/miniconda3/envs/pl/lib/python3.9/site-packages/lightning/pytorch/loops/evaluation_loop.py", line 254, in on_run_end
+[rank1]:     self._on_evaluation_epoch_end()
+[rank1]:   File "/home/dongsijun/scratch/miniconda3/envs/pl/lib/python3.9/site-packages/lightning/pytorch/loops/evaluation_loop.py", line 334, in _on_evaluation_epoch_end
+[rank1]:     call._call_lightning_module_hook(trainer, hook_name)
+[rank1]:   File "/home/dongsijun/scratch/miniconda3/envs/pl/lib/python3.9/site-packages/lightning/pytorch/trainer/call.py", line 167, in _call_lightning_module_hook
+[rank1]:     output = fn(*args, **kwargs)
+[rank1]:   File "/project/dongsijun/25/7/remote-sensing-change-detection/ModelFactory.py", line 112, in on_test_epoch_end
+[rank1]:     paper_metrics = [round(value * 100, 2) if isinstance(value, (int, float)) else [round(v * 100, 2) for v in value] for value in paper_metrics]
+[rank1]:   File "/project/dongsijun/25/7/remote-sensing-change-detection/ModelFactory.py", line 112, in <listcomp>
+[rank1]:     paper_metrics = [round(value * 100, 2) if isinstance(value, (int, float)) else [round(v * 100, 2) for v in value] for value in paper_metrics]
+[rank1]: TypeError: 'numpy.float32' object is not iterable
+[rank0]: Traceback (most recent call last):
+[rank0]:   File "/project/dongsijun/25/7/remote-sensing-change-detection/main.py", line 176, in <module>
+[rank0]:     trainer.test(model, test_loader, ckpt_path='best')
+[rank0]:   File "/home/dongsijun/scratch/miniconda3/envs/pl/lib/python3.9/site-packages/lightning/pytorch/trainer/trainer.py", line 748, in test
+[rank0]:     return call._call_and_handle_interrupt(
+[rank0]:   File "/home/dongsijun/scratch/miniconda3/envs/pl/lib/python3.9/site-packages/lightning/pytorch/trainer/call.py", line 46, in _call_and_handle_interrupt
+[rank0]:     return trainer.strategy.launcher.launch(trainer_fn, *args, trainer=trainer, **kwargs)
+[rank0]:   File "/home/dongsijun/scratch/miniconda3/envs/pl/lib/python3.9/site-packages/lightning/pytorch/strategies/launchers/subprocess_script.py", line 105, in launch
+[rank0]:     return function(*args, **kwargs)
+[rank0]:   File "/home/dongsijun/scratch/miniconda3/envs/pl/lib/python3.9/site-packages/lightning/pytorch/trainer/trainer.py", line 788, in _test_impl
+[rank0]:     results = self._run(model, ckpt_path=ckpt_path)
+[rank0]:   File "/home/dongsijun/scratch/miniconda3/envs/pl/lib/python3.9/site-packages/lightning/pytorch/trainer/trainer.py", line 981, in _run
+[rank0]:     results = self._run_stage()
+[rank0]:   File "/home/dongsijun/scratch/miniconda3/envs/pl/lib/python3.9/site-packages/lightning/pytorch/trainer/trainer.py", line 1018, in _run_stage
+[rank0]:     return self._evaluation_loop.run()
+[rank0]:   File "/home/dongsijun/scratch/miniconda3/envs/pl/lib/python3.9/site-packages/lightning/pytorch/loops/utilities.py", line 178, in _decorator
+[rank0]:     return loop_run(self, *args, **kwargs)
+[rank0]:   File "/home/dongsijun/scratch/miniconda3/envs/pl/lib/python3.9/site-packages/lightning/pytorch/loops/evaluation_loop.py", line 142, in run
+[rank0]:     return self.on_run_end()
+[rank0]:   File "/home/dongsijun/scratch/miniconda3/envs/pl/lib/python3.9/site-packages/lightning/pytorch/loops/evaluation_loop.py", line 254, in on_run_end
+[rank0]:     self._on_evaluation_epoch_end()
+[rank0]:   File "/home/dongsijun/scratch/miniconda3/envs/pl/lib/python3.9/site-packages/lightning/pytorch/loops/evaluation_loop.py", line 334, in _on_evaluation_epoch_end
+[rank0]:     call._call_lightning_module_hook(trainer, hook_name)
+[rank0]:   File "/home/dongsijun/scratch/miniconda3/envs/pl/lib/python3.9/site-packages/lightning/pytorch/trainer/call.py", line 167, in _call_lightning_module_hook
+[rank0]:     output = fn(*args, **kwargs)
+[rank0]:   File "/project/dongsijun/25/7/remote-sensing-change-detection/ModelFactory.py", line 112, in on_test_epoch_end
+[rank0]:     paper_metrics = [round(value * 100, 2) if isinstance(value, (int, float)) else [round(v * 100, 2) for v in value] for value in paper_metrics]
+[rank0]:   File "/project/dongsijun/25/7/remote-sensing-change-detection/ModelFactory.py", line 112, in <listcomp>
+[rank0]:     paper_metrics = [round(value * 100, 2) if isinstance(value, (int, float)) else [round(v * 100, 2) for v in value] for value in paper_metrics]
+[rank0]: TypeError: 'numpy.float32' object is not iterable
+srun: error: g0004: tasks 0-1: Exited with exit code 1
